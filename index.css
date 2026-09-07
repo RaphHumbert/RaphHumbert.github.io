@@ -1,3 +1,6 @@
 footer {
-size : 40;
+  background-color: #222222; /* Couleur de fond */
+  color: #ffffff;            /* Couleur du texte */
+  text-align: center;        /* Centrer le texte */
+  width: 100%;               /* Pleine largeur */
 }
